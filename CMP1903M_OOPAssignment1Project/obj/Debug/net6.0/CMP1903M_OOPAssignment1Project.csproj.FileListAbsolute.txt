@@ -1,0 +1,15 @@
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\bin\Debug\net6.0\CMP1903M_OOPAssignment1Project.exe
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\bin\Debug\net6.0\CMP1903M_OOPAssignment1Project.deps.json
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\bin\Debug\net6.0\CMP1903M_OOPAssignment1Project.runtimeconfig.json
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\bin\Debug\net6.0\CMP1903M_OOPAssignment1Project.dll
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\bin\Debug\net6.0\CMP1903M_OOPAssignment1Project.pdb
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\CMP1903M_OOPAssignment1Project.csproj.AssemblyReference.cache
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\CMP1903M_OOPAssignment1Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\CMP1903M_OOPAssignment1Project.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\CMP1903M_OOPAssignment1Project.AssemblyInfo.cs
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\CMP1903M_OOPAssignment1Project.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\CMP1903M_OOPAssignment1Project.dll
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\refint\CMP1903M_OOPAssignment1Project.dll
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\CMP1903M_OOPAssignment1Project.pdb
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\CMP1903M_OOPAssignment1Project.genruntimeconfig.cache
+C:\Users\roman\Desktop\OOPA01\CMP1903M_OOPAssignment1\CMP1903M_OOPAssignment1Project\obj\Debug\net6.0\ref\CMP1903M_OOPAssignment1Project.dll
